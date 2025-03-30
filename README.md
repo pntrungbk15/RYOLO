@@ -1,5 +1,5 @@
-# Oreinted Object Detection
-This repository is a collection of deep learning applications for oreinted object detection.
+# Oriented Object Detection
+This repository is a collection of deep learning applications for oriented object detection.
 
 ```bash
 python main.py --yaml_config configs/ryolov1/dota.yaml
